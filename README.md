@@ -10,11 +10,6 @@ Google drive link for Gender Model
 
 https://drive.google.com/file/d/1J_dX5cER9HYqm4IkKYB-kVE3apxwZS75/view?usp=drive_link
 
-Requirement
 
-Scikit-learn
-Joblib
-opencv-python
-numpy
-pandas
-matplotlib
+
+
